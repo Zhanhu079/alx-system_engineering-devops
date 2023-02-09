@@ -1,1 +1,1 @@
-For the shell_basics project
+For the shell_permissions project
